@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PRO-RFQ-2026-7580",
+    "type": "rfq_inquiry",
+    "name": "Test",
+    "email": "test@example.com",
+    "phone": "Not Provided",
+    "product": "5kg Cocopeat Blocks",
+    "message": "Hello",
+    "destinationPort": "",
+    "createdAt": "2026-09-16T05:30:00.860Z",
+    "timestamp": 1789536600860,
+    "ip": "127.0.0.1",
+    "userAgent": "curl/7.88.1",
+    "status": "new"
+  },
+  {
+    "id": "PRO-RFQ-2026-3273",
+    "type": "rfq_inquiry",
+    "name": "Test Buyer",
+    "email": "buyer@example.com",
+    "phone": "+123456789",
+    "product": "5kg Cocopeat Blocks",
+    "message": "Testing RFQ submission",
+    "destinationPort": "",
+    "createdAt": "2026-09-10T12:16:56.436Z",
+    "timestamp": 1789042616436,
+    "ip": "127.0.0.1",
+    "userAgent": "curl/7.88.1",
+    "status": "new"
+  }
+]
